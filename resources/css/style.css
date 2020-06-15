@@ -7,3 +7,24 @@ h1,  h2 {
   font-family: Verdana;
   color: white;
 }
+
+.intro {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  font-family: Verdana;
+  color: gray;
+  font-size: 21px;
+}
