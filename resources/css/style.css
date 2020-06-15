@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h1,  h2 {
+  font-family: Verdana;
+  color: white;
+}
